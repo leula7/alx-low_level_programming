@@ -12,7 +12,8 @@
  */
 int main(void)
 {
-	printf("%d,%d,%d",sizeof(int),sizeof(long),sizeof(char));
+        printf("%d,%d,%d",sizeof(int),sizeof(long),sizeof(char));
 
-	return (0);
+        return (0);
 }
+
