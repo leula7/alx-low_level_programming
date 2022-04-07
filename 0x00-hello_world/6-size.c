@@ -12,7 +12,7 @@
  */
 int main(void)
 {
-        printf("%d,%d,%d",sizeof(int),sizeof(long),sizeof(char));
+	printf("Size of a char: %d\n Size of an int: %d\n Size of a long int: %d\n Size of a long long int: %d\n Size of a float: %d\n",sizeof(char),sizeof(int),sizeof(long),sizeof(long),sizeof(float));
 
         return (0);
 }
