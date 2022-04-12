@@ -1,19 +1,27 @@
+/*
+ * File: 0_putchar.c
+ * 
+ *
+ */
+
 #include "main.h"
-/*about main function
- * *
- * */
 
- int _putchar(void)
+/**
+ * main - Prints "Holberton" followed by a new line.
+ *
+ * Return: Always 0.
+ */
+
+
+int main(void)
 {
-    _putchar('_');
-    _putchar('p');
-    _putchar('u');
-    _putchar('t');
-    _putchar('c');
-    _purtchar('h');
-    _putchar('a');
-    _putchr('r');
-    _putchar('\n');
-	return (0);
-
- }
+char c[9] = "_putchar";
+int i = 0;
+while (i < 8)
+{
+_putchar(c[i]);
+i++;
+}
+_putchar('\n');
+return (0);
+}
