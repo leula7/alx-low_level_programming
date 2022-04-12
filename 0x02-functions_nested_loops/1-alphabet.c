@@ -1,8 +1,10 @@
+/*
+ * file 1-alphabet.c
+ * */
 #include "main.h"
 /**
- * print alphabet in small letter
- * */
-
+ * print_alphabet - prints the alphabet in lowercase, followed by a new line.
+ */
 void print_alphabet(void)
 {
 	char letter;
