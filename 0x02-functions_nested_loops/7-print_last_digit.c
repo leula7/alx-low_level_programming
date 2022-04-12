@@ -1,5 +1,3 @@
-sloc)  377 Bytes
-   
 /*
  * File: 7-print_last_digit.c
  * Auth: L K
