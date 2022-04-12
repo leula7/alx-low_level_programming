@@ -1,6 +1,5 @@
-#include <stdilo.h>
-
-using namespace std;
+#include <stdio.h>
+#include <stdlib.h>
 /*about main function
  * *
  * */
