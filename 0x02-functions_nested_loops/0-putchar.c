@@ -1,12 +1,12 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <unistd.h>
+#include "main.h"
 /*about main function
  * *
  * */
 
  int main(void)
 {
-    	printf("_putchar\n");
+    _putchar("_putchar\n");
 	return (0);
 
  }
