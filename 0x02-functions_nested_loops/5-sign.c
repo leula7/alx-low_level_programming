@@ -4,7 +4,7 @@
  * Auth: L K
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _isalpha - Checks if a character is alphabetic.
@@ -12,7 +12,7 @@
  *
  * Return: 1 if character is letter, lowercase or uppercase, 0 otherwise.
  */
-int _isalpha(int c)
+int print_sign(int n)
 {
 	int n;
 
