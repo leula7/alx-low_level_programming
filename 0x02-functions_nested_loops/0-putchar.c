@@ -1,21 +1,12 @@
-#include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
 /*about main function
  * *
  * */
 
  int main(void)
 {
-        _putchar('H');
-	_putchar('o');
-	_putchar('l');
-	_putchar('b');
-	_putchar('e');
-	_putchar('r');
-	_putchar('t');
-	_putchar('o');
-	_putchar('n');
-	_putchar('\n');
-
+    	printf("_putchar\n");
 	return (0);
 
  }
