@@ -1,12 +1,14 @@
 #include "main.h"
+/**
+ * print alphabet in small letter
+ * */
+
 void print_alphabet(void)
 {
-	for(int i=97; i<=121; i++)
-	{
-		char result=i+'0';	
-		_putchar(result);
-	}
-	_putchar('\n');
+	char letter;
 
-	return 0;
+	for (letter = 'a'; letter <= 'z'; letter++)
+		_putchar(letter);
+
+	_putchar('\n');
 }
