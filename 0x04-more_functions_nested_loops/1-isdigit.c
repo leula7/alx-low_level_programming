@@ -11,7 +11,7 @@ int _isupper(c)
 
     int i = c;
 
-    if(i>=48 && i<=58)
+    if(i >= 48 && i <= 58)
     {
        return (1);
     }else
