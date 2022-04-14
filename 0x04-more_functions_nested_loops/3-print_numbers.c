@@ -1,14 +1,16 @@
-/**
- * main - check the code
- *
- * Return: Always 0.
- */
 #include "main.h"
-void print_numbers(void)
-{
-	char c;
+#include <stdio.h>
 
-	for (c = '0'; c <= '9'; c++)
-	_putchar(c);
-	_putchar('\n');
+/**
+* mul - function that multiplies two integers
+* @a: First integer
+* @b: Second integer
+* Return: mul.
+*/
+int mul(int a, int b)
+{
+	int x;
+
+	x = a * b;
+return (x);
 }
