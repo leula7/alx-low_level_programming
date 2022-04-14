@@ -2,5 +2,5 @@
 #define MAIN_H
 
 int _isupper(c);
-
+int _isdigit(c);
 #endif	
