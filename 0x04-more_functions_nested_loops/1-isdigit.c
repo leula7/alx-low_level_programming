@@ -6,16 +6,14 @@
  *
  * Return: Always 0.
  */
-int _isupper(c)
+int _isupper(int c)
 {
-
-    int i = c;
-
-    if(i >= 48 && i <= 58)
-    {
-       return (1);
-    }else
-    {
-             return (0);
-    }
+	if (c >= 'A' && c <= 'Z')
+	{
+	return (1);
+	}
+	else
+	{
+	return (0);
+	}
 }
