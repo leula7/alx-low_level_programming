@@ -3,7 +3,7 @@
  * Auth: Leul K
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
 * main - check the code 
