@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * main - check the code
  *
@@ -7,5 +7,6 @@
  */
 void _puts(char *str)
 {
-putchar(str);  
+  printf(str);
+puts(str);  
 }
