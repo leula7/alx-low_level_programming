@@ -4,7 +4,7 @@
  *
  * Return: Always 0.
  */
-void swap_int(int *c, int *d)
+void swap_int(int *a, int *b)
 {
   *a = 42;
   *b = 98;
