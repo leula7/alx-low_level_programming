@@ -4,10 +4,8 @@
  *
  * Return: Always 0.
  */
-void swap_int(int *a, int *b)
+void swap_int(int *c, int *d)
 {
-  int temp = 0;
-  temp =  b;
-  b = a;
-  a = temp;
+  *a = 42;
+  *b = 98;
 }
