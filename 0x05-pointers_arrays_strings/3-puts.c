@@ -3,9 +3,9 @@
 
 /**
  * _puts - to print characters.
- * @st: The given char.
+ * @str: The given char.
  */
 void _puts(char *str)
 {
-puts(str);  
+puts(str);
 }
