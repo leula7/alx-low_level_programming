@@ -2,15 +2,11 @@
 
 /**
  * main - check the code
- *
+ * a is the first number
+ * b is the second number
  * Return: Always 0.
  */
 void swap_int(int *a, int *b)
-  /**
- * main - check the code
- *
- * Return: Always 0.
- */
 {
 int temp;
 temp = *a;
