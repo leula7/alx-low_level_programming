@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * main - check the code 
@@ -8,5 +7,5 @@
  */
 void reset_to_98(int *m)
 {
-   m = 98;
+   *m = 98;
 }
