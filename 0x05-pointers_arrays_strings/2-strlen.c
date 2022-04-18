@@ -5,7 +5,9 @@
  *
  * Return: Always 0.
  */
- void _puts(char *str)
+int _strlen(char *s);
  {
-_putchar(str); 
+int str_length;
+str_length = strlen(s);
+return str_lenght;  
  }
