@@ -1,4 +1,5 @@
 #include "main.h"
+#include <string.h>
 
 /**
  * main - check the code
@@ -9,5 +10,5 @@ int _strlen(char *s)
  {
 int str_length;
 str_length = strlen(s);
-return str_lenght;  
+return str_length;  
  }
