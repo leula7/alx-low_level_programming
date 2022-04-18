@@ -1,22 +1,12 @@
 #include "main.h"
-#include <stdio.h>
-
 /**
- * main - check the code.
- *
- * Return: Always 0.
- */
-int _isupper(c)
+* _isdigit - function that check if it's a digit
+* @c: takes in a character/digit
+* Return: 1 if digit and 0 if anything else
+*/
+int _isdigit(int c)
 {
-
-    int i = c;
-
-    if(i <= 90 && i >= 65)
-    {
-       return (1);
-    }
-    else if(i >= 97 && i <= 122)
-    {
-            return (0);
-    }
+	if (c >= '0' && c <= '9')
+		return (1);
+	return (0);
 }
