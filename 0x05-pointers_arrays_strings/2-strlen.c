@@ -4,7 +4,7 @@
 /**
  * _strlen - to count length.
  * @s: The given character.
- * @str_length: the return value.
+ * @_strlen: the return value.
  */
 int _strlen(char *s)
 {
