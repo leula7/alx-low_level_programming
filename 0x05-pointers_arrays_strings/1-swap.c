@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
- * a is the first number
- * b is the second number
- * Return: Always 0.
+ * swap_int - to swap two numbers.
+ * @a: The first number.
+ * @b: The second number.
  */
 void swap_int(int *a, int *b)
 {
