@@ -3,11 +3,11 @@
 #include <string.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * print_rev - to swap two numbers.
+ * @s: The given char.
  */
 void print_rev(char *s)
 {
-strrev(s);  
+strsep(s);  
 }
+
