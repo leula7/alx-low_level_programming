@@ -2,9 +2,9 @@
 #include <string.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _strlen - to count length.
+ * @s: The given character.
+ * @str_length: The initializer.
  */
 int _strlen(char *s)
 {
