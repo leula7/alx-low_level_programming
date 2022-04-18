@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * Write a function that takes a pointer to an int as 
- * parameter and updates the value it points to to 98
- * @m: size of the m
- * @reset_to_98: to change the value of m
+ * reset_to_98 - change the value of n.
+ * @n: The given number.
  */
 void reset_to_98(int *m)
 {
