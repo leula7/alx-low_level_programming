@@ -1,6 +1,6 @@
 /*
  * File: 9-strcpy.c
- * Auth:Leul K
+ * Auth: Leul K
  */
 
 #include "main.h"
