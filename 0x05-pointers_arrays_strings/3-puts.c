@@ -1,9 +1,9 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _puts - to print characters.
+ * @st: The given char.
  */
 void _puts(char *str)
 {
