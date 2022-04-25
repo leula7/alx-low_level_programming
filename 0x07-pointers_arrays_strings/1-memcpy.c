@@ -3,7 +3,7 @@
  * Auth: Leul K
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _memcpy - Copies @n bytes from the memory area pointed
