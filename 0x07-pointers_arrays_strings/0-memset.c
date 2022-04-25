@@ -2,7 +2,9 @@
  * File: 0-memset.c
  * Auth: Leul K
  */
+
 #include "main.h"
+
 /**
  * memset - Fills the first n bytes of the memory area
  *          pointed to by @s with the constant byte @c.
