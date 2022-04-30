@@ -1,6 +1,6 @@
 /*
  * File: 0-whatsmyname.c
- * Auth: Leul K
+ * Auth: Leul Ka
  */
 
 #include <stdio.h>
