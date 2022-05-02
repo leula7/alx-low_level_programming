@@ -1,6 +1,10 @@
 /*
  * File: 1-memcpy.c
+<<<<<<< HEAD
  * Auth: Brennan D Baraban
+=======
+ * Auth: Leul K
+>>>>>>> f6bb656049c067230b082b034eb74f5121233275
  */
 
 #include "main.h"
