@@ -32,15 +32,3 @@ void print_numbers(const char *separator, const unsigned int n, ...)
 
 	va_end(nums);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
