@@ -1,9 +1,9 @@
 /*
  * File: 2-get_bit.c
- * Auth: Brennan D Baraban
+ * Auth: Leul K
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * get_bit - Gets the value of a bit at a given index.
