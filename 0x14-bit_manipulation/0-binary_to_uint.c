@@ -1,6 +1,6 @@
 /*
- * Auth: Brennan D Baraban
- * Auth: Leul K
+* Auth:Leul K
+* File: 0-binary_to_uint.c
  */
 
 #include "main.h"
