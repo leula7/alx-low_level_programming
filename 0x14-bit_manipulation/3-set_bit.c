@@ -1,9 +1,9 @@
 /*
  * File: 3-set_bit.c
- * Auth: Brennan D Baraban
+ * Auth: Leul K
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * set_bit - Sets the value of a bit at a given index to 1.
